@@ -1,10 +1,10 @@
 
 import time
 from typing import Counter
-import requests
-import pandas as pd
-from bs4 import BeautifulSoup
-from selenium import webdriver
+import requests #
+import pandas as pd #
+from bs4 import BeautifulSoup #
+from selenium import webdriver #
 from selenium.webdriver.firefox.options import Options
 import json
 import re
@@ -58,8 +58,8 @@ for mapa in url:
             break
     Mdict[map_content] = dict
 pprint(Mdict, sort_dicts=False)
-js = json.dumps(Mdict)
-fp = open('charmap.json', 'w')
+js = json.dumps(Mdict, indent=4, ensure_ascii=False)
+fp = open('charmap.json', 'w', encoding='utf-8')
 fp.write(js)
 fp.close()
 driver.quit()
