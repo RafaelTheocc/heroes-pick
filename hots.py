@@ -10,7 +10,8 @@ import json
 import re
 from pprint import pprint
 
-Mdict = {}
+Ndict = {}
+Pdict = {}
 
 url = [
     "https://www.heroescounters.com/map/dragonshire",
@@ -26,7 +27,7 @@ url = [
     "https://www.heroescounters.com/map/warheadjunction",
     # "https://www.heroescounters.com/map/blackheartsbay",
     "https://www.heroescounters.com/map/skytemple"
-    # "https://www.heroescounters.com/map/volskayafoundry"
+    #"https://www.heroescounters.com/map/volskayafoundry
 ]
 
 
@@ -38,6 +39,7 @@ driver = webdriver.Firefox(options=option)
 for mapa in url:
     driver.get(mapa)
     dict = {}
+    dicteta ={}
     x = 0
     map_element = driver.find_element_by_xpath(
         '/html/body/div/div[2]/div[1]/div[2]/div/h1')
@@ -49,17 +51,25 @@ for mapa in url:
             pers_element = driver.find_element_by_xpath(
                 '/html/body/div/div[2]/ul/li['+str(x)+']/div/h3/a')
             personagem_name = pers_element.get_attribute('innerHTML')
-
+            
             element = driver.find_element_by_xpath(
                 '/html/body/div/div[2]/ul/li['+str(x)+']/div/a/span[2]/strong')
             html_content = int(element.get_attribute('innerHTML'))
-            dict[personagem_name] = [html_content]
+            
+            dict[x] = [personagem_name]
+            dicteta[x] =[html_content]
         except:
             break
-    Mdict[map_content] = dict
-pprint(Mdict, sort_dicts=False)
-js = json.dumps(Mdict, indent=4, ensure_ascii=False)
+    Ndict[map_content] = dict
+    Pdict[map_content] = dicteta
+pprint(Ndict,sort_dicts=False)
+js = json.dumps(Ndict, indent=4, ensure_ascii=False)
 fp = open('charmap.json', 'w', encoding='utf-8')
+fp.write(js)
+fp.close()
+pprint(Pdict,sort_dicts=False)
+js = json.dumps(Pdict, indent=4, ensure_ascii=False)
+fp = open('Pointmap.json', 'w', encoding='utf-8')
 fp.write(js)
 fp.close()
 driver.quit()
