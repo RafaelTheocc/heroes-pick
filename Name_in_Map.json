@@ -1,0 +1,3086 @@
+{
+    "Dragon Shire": {
+        "1": [
+            "Falstad"
+        ],
+        "2": [
+            "Dehaka"
+        ],
+        "3": [
+            "Brightwing"
+        ],
+        "4": [
+            "Leoric"
+        ],
+        "5": [
+            "Thrall"
+        ],
+        "6": [
+            "Zagara"
+        ],
+        "7": [
+            "Johanna"
+        ],
+        "8": [
+            "Zeratul"
+        ],
+        "9": [
+            "Rehgar"
+        ],
+        "10": [
+            "Rexxar"
+        ],
+        "11": [
+            "Garrosh"
+        ],
+        "12": [
+            "Malthael"
+        ],
+        "13": [
+            "Nazeebo"
+        ],
+        "14": [
+            "Anub'arak"
+        ],
+        "15": [
+            "Ragnaros"
+        ],
+        "16": [
+            "Diablo"
+        ],
+        "17": [
+            "Li-Ming"
+        ],
+        "18": [
+            "Gazlowe"
+        ],
+        "19": [
+            "ETC"
+        ],
+        "20": [
+            "Muradin"
+        ],
+        "21": [
+            "Uther"
+        ],
+        "22": [
+            "Xul"
+        ],
+        "23": [
+            "Murky"
+        ],
+        "24": [
+            "Blaze"
+        ],
+        "25": [
+            "Jaina"
+        ],
+        "26": [
+            "Li Li"
+        ],
+        "27": [
+            "Junkrat"
+        ],
+        "28": [
+            "Artanis"
+        ],
+        "29": [
+            "Tyrande"
+        ],
+        "30": [
+            "Valeera"
+        ],
+        "31": [
+            "The Butcher"
+        ],
+        "32": [
+            "Alarak"
+        ],
+        "33": [
+            "Lunara"
+        ],
+        "34": [
+            "Kael'thas"
+        ],
+        "35": [
+            "Illidan"
+        ],
+        "36": [
+            "Whitemane"
+        ],
+        "37": [
+            "The Lost Vikings"
+        ],
+        "38": [
+            "Tychus"
+        ],
+        "39": [
+            "Deckard"
+        ],
+        "40": [
+            "Samuro"
+        ],
+        "41": [
+            "Yrel"
+        ],
+        "42": [
+            "Varian"
+        ],
+        "43": [
+            "Chen"
+        ],
+        "44": [
+            "Sylvanas"
+        ],
+        "45": [
+            "Ana"
+        ],
+        "46": [
+            "Probius"
+        ],
+        "47": [
+            "Orphea"
+        ],
+        "48": [
+            "Lúcio"
+        ],
+        "49": [
+            "Nova"
+        ],
+        "50": [
+            "Tyrael"
+        ],
+        "51": [
+            "Sonya"
+        ],
+        "52": [
+            "Lt. Morales"
+        ],
+        "53": [
+            "Tassadar"
+        ],
+        "54": [
+            "Zul'jin"
+        ],
+        "55": [
+            "Azmodan"
+        ],
+        "56": [
+            "Tracer"
+        ],
+        "57": [
+            "Malfurion"
+        ],
+        "58": [
+            "Mal'Ganis"
+        ],
+        "59": [
+            "Raynor"
+        ],
+        "60": [
+            "Stukov"
+        ],
+        "61": [
+            "Genji"
+        ],
+        "62": [
+            "Chromie"
+        ],
+        "63": [
+            "Fenix"
+        ],
+        "64": [
+            "Greymane"
+        ],
+        "65": [
+            "Anduin"
+        ],
+        "66": [
+            "Valla"
+        ],
+        "67": [
+            "Sgt. Hammer"
+        ],
+        "68": [
+            "Auriel"
+        ],
+        "69": [
+            "Kharazim"
+        ],
+        "70": [
+            "Imperius"
+        ],
+        "71": [
+            "Stitches"
+        ],
+        "72": [
+            "Hanzo"
+        ],
+        "73": [
+            "Kel'Thuzad"
+        ],
+        "74": [
+            "Medivh"
+        ],
+        "75": [
+            "Kerrigan"
+        ],
+        "76": [
+            "D.Va"
+        ],
+        "77": [
+            "Alexstrasza"
+        ],
+        "78": [
+            "Zarya"
+        ],
+        "79": [
+            "Abathur"
+        ],
+        "80": [
+            "Maiev"
+        ],
+        "81": [
+            "Gul'dan"
+        ],
+        "82": [
+            "Arthas"
+        ],
+        "83": [
+            "Cassia"
+        ],
+        "84": [
+            "Cho'gall"
+        ],
+        "85": [
+            "Mephisto"
+        ]
+    },
+    "Alterac Pass": {
+        "1": [
+            "Jaina"
+        ],
+        "2": [
+            "Stukov"
+        ],
+        "3": [
+            "Kael'thas"
+        ],
+        "4": [
+            "Junkrat"
+        ],
+        "5": [
+            "Ragnaros"
+        ],
+        "6": [
+            "Azmodan"
+        ],
+        "7": [
+            "Anduin"
+        ],
+        "8": [
+            "Stitches"
+        ],
+        "9": [
+            "Dehaka"
+        ],
+        "10": [
+            "Gul'dan"
+        ],
+        "11": [
+            "Johanna"
+        ],
+        "12": [
+            "Falstad"
+        ],
+        "13": [
+            "Nazeebo"
+        ],
+        "14": [
+            "Sonya"
+        ],
+        "15": [
+            "Sylvanas"
+        ],
+        "16": [
+            "Hanzo"
+        ],
+        "17": [
+            "Alexstrasza"
+        ],
+        "18": [
+            "Diablo"
+        ],
+        "19": [
+            "Garrosh"
+        ],
+        "20": [
+            "Chromie"
+        ],
+        "21": [
+            "Deckard"
+        ],
+        "22": [
+            "Samuro"
+        ],
+        "23": [
+            "Li Li"
+        ],
+        "24": [
+            "Zagara"
+        ],
+        "25": [
+            "Li-Ming"
+        ],
+        "26": [
+            "Muradin"
+        ],
+        "27": [
+            "Mephisto"
+        ],
+        "28": [
+            "Mal'Ganis"
+        ],
+        "29": [
+            "Gazlowe"
+        ],
+        "30": [
+            "Abathur"
+        ],
+        "31": [
+            "Arthas"
+        ],
+        "32": [
+            "Blaze"
+        ],
+        "33": [
+            "Raynor"
+        ],
+        "34": [
+            "D.Va"
+        ],
+        "35": [
+            "Alarak"
+        ],
+        "36": [
+            "Rehgar"
+        ],
+        "37": [
+            "Varian"
+        ],
+        "38": [
+            "The Lost Vikings"
+        ],
+        "39": [
+            "Thrall"
+        ],
+        "40": [
+            "Fenix"
+        ],
+        "41": [
+            "Probius"
+        ],
+        "42": [
+            "Lúcio"
+        ],
+        "43": [
+            "ETC"
+        ],
+        "44": [
+            "Anub'arak"
+        ],
+        "45": [
+            "Medivh"
+        ],
+        "46": [
+            "Maiev"
+        ],
+        "47": [
+            "Kel'Thuzad"
+        ],
+        "48": [
+            "Yrel"
+        ],
+        "49": [
+            "Orphea"
+        ],
+        "50": [
+            "Zeratul"
+        ],
+        "51": [
+            "Rexxar"
+        ],
+        "52": [
+            "Xul"
+        ],
+        "53": [
+            "Zul'jin"
+        ],
+        "54": [
+            "Illidan"
+        ],
+        "55": [
+            "Artanis"
+        ],
+        "56": [
+            "Brightwing"
+        ],
+        "57": [
+            "Tyrael"
+        ],
+        "58": [
+            "Cho'gall"
+        ],
+        "59": [
+            "Malfurion"
+        ],
+        "60": [
+            "Sgt. Hammer"
+        ],
+        "61": [
+            "Tracer"
+        ],
+        "62": [
+            "Leoric"
+        ],
+        "63": [
+            "Auriel"
+        ],
+        "64": [
+            "Tassadar"
+        ],
+        "65": [
+            "Whitemane"
+        ],
+        "66": [
+            "Valeera"
+        ],
+        "67": [
+            "Lt. Morales"
+        ],
+        "68": [
+            "Malthael"
+        ],
+        "69": [
+            "Tyrande"
+        ],
+        "70": [
+            "Lunara"
+        ],
+        "71": [
+            "Ana"
+        ],
+        "72": [
+            "Genji"
+        ],
+        "73": [
+            "Kerrigan"
+        ],
+        "74": [
+            "Greymane"
+        ],
+        "75": [
+            "Nova"
+        ],
+        "76": [
+            "Tychus"
+        ],
+        "77": [
+            "Imperius"
+        ],
+        "78": [
+            "Cassia"
+        ],
+        "79": [
+            "Valla"
+        ],
+        "80": [
+            "Uther"
+        ],
+        "81": [
+            "Murky"
+        ],
+        "82": [
+            "Zarya"
+        ],
+        "83": [
+            "Chen"
+        ],
+        "84": [
+            "Kharazim"
+        ],
+        "85": [
+            "The Butcher"
+        ]
+    },
+    "Battlefield of Eternity": {
+        "1": [
+            "Valla"
+        ],
+        "2": [
+            "Greymane"
+        ],
+        "3": [
+            "Artanis"
+        ],
+        "4": [
+            "Lunara"
+        ],
+        "5": [
+            "Malthael"
+        ],
+        "6": [
+            "Zul'jin"
+        ],
+        "7": [
+            "Li-Ming"
+        ],
+        "8": [
+            "Sylvanas"
+        ],
+        "9": [
+            "Tyrande"
+        ],
+        "10": [
+            "Hanzo"
+        ],
+        "11": [
+            "Sgt. Hammer"
+        ],
+        "12": [
+            "Raynor"
+        ],
+        "13": [
+            "Jaina"
+        ],
+        "14": [
+            "Johanna"
+        ],
+        "15": [
+            "Muradin"
+        ],
+        "16": [
+            "Kharazim"
+        ],
+        "17": [
+            "Varian"
+        ],
+        "18": [
+            "Samuro"
+        ],
+        "19": [
+            "Rehgar"
+        ],
+        "20": [
+            "Sonya"
+        ],
+        "21": [
+            "Kael'thas"
+        ],
+        "22": [
+            "Fenix"
+        ],
+        "23": [
+            "Tychus"
+        ],
+        "24": [
+            "Gazlowe"
+        ],
+        "25": [
+            "Lúcio"
+        ],
+        "26": [
+            "Thrall"
+        ],
+        "27": [
+            "Malfurion"
+        ],
+        "28": [
+            "Auriel"
+        ],
+        "29": [
+            "ETC"
+        ],
+        "30": [
+            "Tracer"
+        ],
+        "31": [
+            "Nazeebo"
+        ],
+        "32": [
+            "Deckard"
+        ],
+        "33": [
+            "The Butcher"
+        ],
+        "34": [
+            "Blaze"
+        ],
+        "35": [
+            "Arthas"
+        ],
+        "36": [
+            "Zagara"
+        ],
+        "37": [
+            "Anub'arak"
+        ],
+        "38": [
+            "Cho'gall"
+        ],
+        "39": [
+            "Murky"
+        ],
+        "40": [
+            "Gul'dan"
+        ],
+        "41": [
+            "Alarak"
+        ],
+        "42": [
+            "Tassadar"
+        ],
+        "43": [
+            "D.Va"
+        ],
+        "44": [
+            "Uther"
+        ],
+        "45": [
+            "Zeratul"
+        ],
+        "46": [
+            "Li Li"
+        ],
+        "47": [
+            "Leoric"
+        ],
+        "48": [
+            "Lt. Morales"
+        ],
+        "49": [
+            "Ragnaros"
+        ],
+        "50": [
+            "Cassia"
+        ],
+        "51": [
+            "Maiev"
+        ],
+        "52": [
+            "Garrosh"
+        ],
+        "53": [
+            "Kel'Thuzad"
+        ],
+        "54": [
+            "Abathur"
+        ],
+        "55": [
+            "Alexstrasza"
+        ],
+        "56": [
+            "Diablo"
+        ],
+        "57": [
+            "Yrel"
+        ],
+        "58": [
+            "Azmodan"
+        ],
+        "59": [
+            "Tyrael"
+        ],
+        "60": [
+            "Anduin"
+        ],
+        "61": [
+            "Ana"
+        ],
+        "62": [
+            "Mal'Ganis"
+        ],
+        "63": [
+            "Probius"
+        ],
+        "64": [
+            "Stukov"
+        ],
+        "65": [
+            "Genji"
+        ],
+        "66": [
+            "Falstad"
+        ],
+        "67": [
+            "Brightwing"
+        ],
+        "68": [
+            "Illidan"
+        ],
+        "69": [
+            "Zarya"
+        ],
+        "70": [
+            "Orphea"
+        ],
+        "71": [
+            "Imperius"
+        ],
+        "72": [
+            "Junkrat"
+        ],
+        "73": [
+            "Whitemane"
+        ],
+        "74": [
+            "Valeera"
+        ],
+        "75": [
+            "Stitches"
+        ],
+        "76": [
+            "Kerrigan"
+        ],
+        "77": [
+            "Mephisto"
+        ],
+        "78": [
+            "Rexxar"
+        ],
+        "79": [
+            "Xul"
+        ],
+        "80": [
+            "Dehaka"
+        ],
+        "81": [
+            "Chen"
+        ],
+        "82": [
+            "Chromie"
+        ],
+        "83": [
+            "Medivh"
+        ],
+        "84": [
+            "Nova"
+        ],
+        "85": [
+            "The Lost Vikings"
+        ]
+    },
+    "Braxis Holdout": {
+        "1": [
+            "Ragnaros"
+        ],
+        "2": [
+            "Kael'thas"
+        ],
+        "3": [
+            "Gul'dan"
+        ],
+        "4": [
+            "Sylvanas"
+        ],
+        "5": [
+            "Johanna"
+        ],
+        "6": [
+            "Blaze"
+        ],
+        "7": [
+            "Rexxar"
+        ],
+        "8": [
+            "Jaina"
+        ],
+        "9": [
+            "Sonya"
+        ],
+        "10": [
+            "Dehaka"
+        ],
+        "11": [
+            "Stukov"
+        ],
+        "12": [
+            "Zagara"
+        ],
+        "13": [
+            "Yrel"
+        ],
+        "14": [
+            "Gazlowe"
+        ],
+        "15": [
+            "Probius"
+        ],
+        "16": [
+            "Arthas"
+        ],
+        "17": [
+            "D.Va"
+        ],
+        "18": [
+            "Zarya"
+        ],
+        "19": [
+            "Kel'Thuzad"
+        ],
+        "20": [
+            "Valla"
+        ],
+        "21": [
+            "Sgt. Hammer"
+        ],
+        "22": [
+            "Malfurion"
+        ],
+        "23": [
+            "Fenix"
+        ],
+        "24": [
+            "Anduin"
+        ],
+        "25": [
+            "Falstad"
+        ],
+        "26": [
+            "Junkrat"
+        ],
+        "27": [
+            "Chen"
+        ],
+        "28": [
+            "Alexstrasza"
+        ],
+        "29": [
+            "Malthael"
+        ],
+        "30": [
+            "Brightwing"
+        ],
+        "31": [
+            "Lunara"
+        ],
+        "32": [
+            "ETC"
+        ],
+        "33": [
+            "Auriel"
+        ],
+        "34": [
+            "Chromie"
+        ],
+        "35": [
+            "Genji"
+        ],
+        "36": [
+            "Artanis"
+        ],
+        "37": [
+            "Imperius"
+        ],
+        "38": [
+            "Tychus"
+        ],
+        "39": [
+            "Thrall"
+        ],
+        "40": [
+            "Lúcio"
+        ],
+        "41": [
+            "Mephisto"
+        ],
+        "42": [
+            "Mal'Ganis"
+        ],
+        "43": [
+            "Muradin"
+        ],
+        "44": [
+            "Alarak"
+        ],
+        "45": [
+            "Nazeebo"
+        ],
+        "46": [
+            "Leoric"
+        ],
+        "47": [
+            "Maiev"
+        ],
+        "48": [
+            "Cho'gall"
+        ],
+        "49": [
+            "Azmodan"
+        ],
+        "50": [
+            "Garrosh"
+        ],
+        "51": [
+            "Xul"
+        ],
+        "52": [
+            "Diablo"
+        ],
+        "53": [
+            "Varian"
+        ],
+        "54": [
+            "Orphea"
+        ],
+        "55": [
+            "Medivh"
+        ],
+        "56": [
+            "Rehgar"
+        ],
+        "57": [
+            "Tyrael"
+        ],
+        "58": [
+            "Lt. Morales"
+        ],
+        "59": [
+            "Li-Ming"
+        ],
+        "60": [
+            "Zeratul"
+        ],
+        "61": [
+            "Raynor"
+        ],
+        "62": [
+            "Deckard"
+        ],
+        "63": [
+            "Samuro"
+        ],
+        "64": [
+            "Zul'jin"
+        ],
+        "65": [
+            "Anub'arak"
+        ],
+        "66": [
+            "Kerrigan"
+        ],
+        "67": [
+            "Whitemane"
+        ],
+        "68": [
+            "Tassadar"
+        ],
+        "69": [
+            "Uther"
+        ],
+        "70": [
+            "Kharazim"
+        ],
+        "71": [
+            "Greymane"
+        ],
+        "72": [
+            "Ana"
+        ],
+        "73": [
+            "Li Li"
+        ],
+        "74": [
+            "Hanzo"
+        ],
+        "75": [
+            "Illidan"
+        ],
+        "76": [
+            "Tyrande"
+        ],
+        "77": [
+            "Cassia"
+        ],
+        "78": [
+            "Stitches"
+        ],
+        "79": [
+            "Murky"
+        ],
+        "80": [
+            "Valeera"
+        ],
+        "81": [
+            "Tracer"
+        ],
+        "82": [
+            "The Butcher"
+        ],
+        "83": [
+            "Abathur"
+        ],
+        "84": [
+            "Nova"
+        ],
+        "85": [
+            "The Lost Vikings"
+        ]
+    },
+    "Cursed Hollow": {
+        "1": [
+            "Dehaka"
+        ],
+        "2": [
+            "Falstad"
+        ],
+        "3": [
+            "Abathur"
+        ],
+        "4": [
+            "Brightwing"
+        ],
+        "5": [
+            "Li-Ming"
+        ],
+        "6": [
+            "ETC"
+        ],
+        "7": [
+            "Junkrat"
+        ],
+        "8": [
+            "Chromie"
+        ],
+        "9": [
+            "The Lost Vikings"
+        ],
+        "10": [
+            "Kael'thas"
+        ],
+        "11": [
+            "Genji"
+        ],
+        "12": [
+            "Nazeebo"
+        ],
+        "13": [
+            "Diablo"
+        ],
+        "14": [
+            "Stukov"
+        ],
+        "15": [
+            "Tyrande"
+        ],
+        "16": [
+            "Zagara"
+        ],
+        "17": [
+            "Samuro"
+        ],
+        "18": [
+            "Azmodan"
+        ],
+        "19": [
+            "Yrel"
+        ],
+        "20": [
+            "Alarak"
+        ],
+        "21": [
+            "Thrall"
+        ],
+        "22": [
+            "Tracer"
+        ],
+        "23": [
+            "Zeratul"
+        ],
+        "24": [
+            "Gul'dan"
+        ],
+        "25": [
+            "Malfurion"
+        ],
+        "26": [
+            "Stitches"
+        ],
+        "27": [
+            "Murky"
+        ],
+        "28": [
+            "Valla"
+        ],
+        "29": [
+            "Jaina"
+        ],
+        "30": [
+            "Illidan"
+        ],
+        "31": [
+            "Johanna"
+        ],
+        "32": [
+            "Blaze"
+        ],
+        "33": [
+            "Muradin"
+        ],
+        "34": [
+            "Hanzo"
+        ],
+        "35": [
+            "Leoric"
+        ],
+        "36": [
+            "Malthael"
+        ],
+        "37": [
+            "Sonya"
+        ],
+        "38": [
+            "Alexstrasza"
+        ],
+        "39": [
+            "Valeera"
+        ],
+        "40": [
+            "Ragnaros"
+        ],
+        "41": [
+            "Rehgar"
+        ],
+        "42": [
+            "Medivh"
+        ],
+        "43": [
+            "Nova"
+        ],
+        "44": [
+            "Deckard"
+        ],
+        "45": [
+            "Lt. Morales"
+        ],
+        "46": [
+            "Anub'arak"
+        ],
+        "47": [
+            "Maiev"
+        ],
+        "48": [
+            "Artanis"
+        ],
+        "49": [
+            "Auriel"
+        ],
+        "50": [
+            "Fenix"
+        ],
+        "51": [
+            "Orphea"
+        ],
+        "52": [
+            "Kharazim"
+        ],
+        "53": [
+            "Cassia"
+        ],
+        "54": [
+            "Rexxar"
+        ],
+        "55": [
+            "Tyrael"
+        ],
+        "56": [
+            "Zarya"
+        ],
+        "57": [
+            "Lúcio"
+        ],
+        "58": [
+            "Gazlowe"
+        ],
+        "59": [
+            "Raynor"
+        ],
+        "60": [
+            "Varian"
+        ],
+        "61": [
+            "Xul"
+        ],
+        "62": [
+            "D.Va"
+        ],
+        "63": [
+            "Kel'Thuzad"
+        ],
+        "64": [
+            "Tychus"
+        ],
+        "65": [
+            "Li Li"
+        ],
+        "66": [
+            "The Butcher"
+        ],
+        "67": [
+            "Greymane"
+        ],
+        "68": [
+            "Chen"
+        ],
+        "69": [
+            "Arthas"
+        ],
+        "70": [
+            "Tassadar"
+        ],
+        "71": [
+            "Kerrigan"
+        ],
+        "72": [
+            "Sylvanas"
+        ],
+        "73": [
+            "Mal'Ganis"
+        ],
+        "74": [
+            "Sgt. Hammer"
+        ],
+        "75": [
+            "Probius"
+        ],
+        "76": [
+            "Anduin"
+        ],
+        "77": [
+            "Garrosh"
+        ],
+        "78": [
+            "Uther"
+        ],
+        "79": [
+            "Lunara"
+        ],
+        "80": [
+            "Ana"
+        ],
+        "81": [
+            "Zul'jin"
+        ],
+        "82": [
+            "Whitemane"
+        ],
+        "83": [
+            "Imperius"
+        ],
+        "84": [
+            "Mephisto"
+        ],
+        "85": [
+            "Cho'gall"
+        ]
+    },
+    "Garden of Terror": {
+        "1": [
+            "Johanna"
+        ],
+        "2": [
+            "Murky"
+        ],
+        "3": [
+            "The Lost Vikings"
+        ],
+        "4": [
+            "Valla"
+        ],
+        "5": [
+            "Sylvanas"
+        ],
+        "6": [
+            "Rehgar"
+        ],
+        "7": [
+            "Diablo"
+        ],
+        "8": [
+            "Greymane"
+        ],
+        "9": [
+            "Tracer"
+        ],
+        "10": [
+            "Hanzo"
+        ],
+        "11": [
+            "Kael'thas"
+        ],
+        "12": [
+            "Abathur"
+        ],
+        "13": [
+            "Anub'arak"
+        ],
+        "14": [
+            "Illidan"
+        ],
+        "15": [
+            "Malthael"
+        ],
+        "16": [
+            "Thrall"
+        ],
+        "17": [
+            "Lunara"
+        ],
+        "18": [
+            "Nazeebo"
+        ],
+        "19": [
+            "Leoric"
+        ],
+        "20": [
+            "The Butcher"
+        ],
+        "21": [
+            "Ragnaros"
+        ],
+        "22": [
+            "Tychus"
+        ],
+        "23": [
+            "Varian"
+        ],
+        "24": [
+            "Malfurion"
+        ],
+        "25": [
+            "Zeratul"
+        ],
+        "26": [
+            "Li Li"
+        ],
+        "27": [
+            "Jaina"
+        ],
+        "28": [
+            "Samuro"
+        ],
+        "29": [
+            "Dehaka"
+        ],
+        "30": [
+            "Artanis"
+        ],
+        "31": [
+            "Raynor"
+        ],
+        "32": [
+            "Sonya"
+        ],
+        "33": [
+            "Blaze"
+        ],
+        "34": [
+            "Anduin"
+        ],
+        "35": [
+            "Muradin"
+        ],
+        "36": [
+            "Kerrigan"
+        ],
+        "37": [
+            "Zul'jin"
+        ],
+        "38": [
+            "Mal'Ganis"
+        ],
+        "39": [
+            "Maiev"
+        ],
+        "40": [
+            "Uther"
+        ],
+        "41": [
+            "Brightwing"
+        ],
+        "42": [
+            "Kharazim"
+        ],
+        "43": [
+            "Yrel"
+        ],
+        "44": [
+            "Tyrande"
+        ],
+        "45": [
+            "Arthas"
+        ],
+        "46": [
+            "Falstad"
+        ],
+        "47": [
+            "Fenix"
+        ],
+        "48": [
+            "D.Va"
+        ],
+        "49": [
+            "Xul"
+        ],
+        "50": [
+            "Stukov"
+        ],
+        "51": [
+            "Rexxar"
+        ],
+        "52": [
+            "Auriel"
+        ],
+        "53": [
+            "Tassadar"
+        ],
+        "54": [
+            "ETC"
+        ],
+        "55": [
+            "Li-Ming"
+        ],
+        "56": [
+            "Garrosh"
+        ],
+        "57": [
+            "Genji"
+        ],
+        "58": [
+            "Zagara"
+        ],
+        "59": [
+            "Lúcio"
+        ],
+        "60": [
+            "Mephisto"
+        ],
+        "61": [
+            "Orphea"
+        ],
+        "62": [
+            "Tyrael"
+        ],
+        "63": [
+            "Probius"
+        ],
+        "64": [
+            "Gul'dan"
+        ],
+        "65": [
+            "Azmodan"
+        ],
+        "66": [
+            "Zarya"
+        ],
+        "67": [
+            "Kel'Thuzad"
+        ],
+        "68": [
+            "Nova"
+        ],
+        "69": [
+            "Gazlowe"
+        ],
+        "70": [
+            "Sgt. Hammer"
+        ],
+        "71": [
+            "Cassia"
+        ],
+        "72": [
+            "Whitemane"
+        ],
+        "73": [
+            "Imperius"
+        ],
+        "74": [
+            "Stitches"
+        ],
+        "75": [
+            "Cho'gall"
+        ],
+        "76": [
+            "Lt. Morales"
+        ],
+        "77": [
+            "Medivh"
+        ],
+        "78": [
+            "Valeera"
+        ],
+        "79": [
+            "Chen"
+        ],
+        "80": [
+            "Deckard"
+        ],
+        "81": [
+            "Junkrat"
+        ],
+        "82": [
+            "Ana"
+        ],
+        "83": [
+            "Chromie"
+        ],
+        "84": [
+            "Alarak"
+        ],
+        "85": [
+            "Alexstrasza"
+        ]
+    },
+    "Hanamura Temple": {
+        "1": [
+            "Brightwing"
+        ],
+        "2": [
+            "Lúcio"
+        ],
+        "3": [
+            "Varian"
+        ],
+        "4": [
+            "Falstad"
+        ],
+        "5": [
+            "Azmodan"
+        ],
+        "6": [
+            "Genji"
+        ],
+        "7": [
+            "Rexxar"
+        ],
+        "8": [
+            "Muradin"
+        ],
+        "9": [
+            "Dehaka"
+        ],
+        "10": [
+            "Valeera"
+        ],
+        "11": [
+            "D.Va"
+        ],
+        "12": [
+            "Tracer"
+        ],
+        "13": [
+            "Artanis"
+        ],
+        "14": [
+            "Anub'arak"
+        ],
+        "15": [
+            "Nova"
+        ],
+        "16": [
+            "Sylvanas"
+        ],
+        "17": [
+            "Lunara"
+        ],
+        "18": [
+            "Samuro"
+        ],
+        "19": [
+            "Fenix"
+        ],
+        "20": [
+            "Greymane"
+        ],
+        "21": [
+            "Sonya"
+        ],
+        "22": [
+            "Johanna"
+        ],
+        "23": [
+            "Cassia"
+        ],
+        "24": [
+            "Illidan"
+        ],
+        "25": [
+            "Valla"
+        ],
+        "26": [
+            "Alarak"
+        ],
+        "27": [
+            "Imperius"
+        ],
+        "28": [
+            "The Lost Vikings"
+        ],
+        "29": [
+            "Maiev"
+        ],
+        "30": [
+            "Malfurion"
+        ],
+        "31": [
+            "Zeratul"
+        ],
+        "32": [
+            "Li-Ming"
+        ],
+        "33": [
+            "ETC"
+        ],
+        "34": [
+            "Kel'Thuzad"
+        ],
+        "35": [
+            "Zul'jin"
+        ],
+        "36": [
+            "Anduin"
+        ],
+        "37": [
+            "Zarya"
+        ],
+        "38": [
+            "Jaina"
+        ],
+        "39": [
+            "Mephisto"
+        ],
+        "40": [
+            "Orphea"
+        ],
+        "41": [
+            "Arthas"
+        ],
+        "42": [
+            "Leoric"
+        ],
+        "43": [
+            "Li Li"
+        ],
+        "44": [
+            "Stukov"
+        ],
+        "45": [
+            "Thrall"
+        ],
+        "46": [
+            "Kael'thas"
+        ],
+        "47": [
+            "Kerrigan"
+        ],
+        "48": [
+            "Zagara"
+        ],
+        "49": [
+            "Mal'Ganis"
+        ],
+        "50": [
+            "Lt. Morales"
+        ],
+        "51": [
+            "Deckard"
+        ],
+        "52": [
+            "Probius"
+        ],
+        "53": [
+            "Uther"
+        ],
+        "54": [
+            "Medivh"
+        ],
+        "55": [
+            "Blaze"
+        ],
+        "56": [
+            "Chen"
+        ],
+        "57": [
+            "Rehgar"
+        ],
+        "58": [
+            "Gul'dan"
+        ],
+        "59": [
+            "Junkrat"
+        ],
+        "60": [
+            "Auriel"
+        ],
+        "61": [
+            "Whitemane"
+        ],
+        "62": [
+            "Kharazim"
+        ],
+        "63": [
+            "Tassadar"
+        ],
+        "64": [
+            "Tyrande"
+        ],
+        "65": [
+            "Tyrael"
+        ],
+        "66": [
+            "Ana"
+        ],
+        "67": [
+            "Garrosh"
+        ],
+        "68": [
+            "The Butcher"
+        ],
+        "69": [
+            "Malthael"
+        ],
+        "70": [
+            "Raynor"
+        ],
+        "71": [
+            "Diablo"
+        ],
+        "72": [
+            "Tychus"
+        ],
+        "73": [
+            "Yrel"
+        ],
+        "74": [
+            "Chromie"
+        ],
+        "75": [
+            "Stitches"
+        ],
+        "76": [
+            "Ragnaros"
+        ],
+        "77": [
+            "Murky"
+        ],
+        "78": [
+            "Nazeebo"
+        ],
+        "79": [
+            "Xul"
+        ],
+        "80": [
+            "Gazlowe"
+        ],
+        "81": [
+            "Alexstrasza"
+        ],
+        "82": [
+            "Abathur"
+        ],
+        "83": [
+            "Cho'gall"
+        ],
+        "84": [
+            "Hanzo"
+        ],
+        "85": [
+            "Sgt. Hammer"
+        ]
+    },
+    "Infernal Shrines": {
+        "1": [
+            "Kael'thas"
+        ],
+        "2": [
+            "Johanna"
+        ],
+        "3": [
+            "Jaina"
+        ],
+        "4": [
+            "Gul'dan"
+        ],
+        "5": [
+            "Sonya"
+        ],
+        "6": [
+            "Sylvanas"
+        ],
+        "7": [
+            "Ragnaros"
+        ],
+        "8": [
+            "Azmodan"
+        ],
+        "9": [
+            "Kerrigan"
+        ],
+        "10": [
+            "Xul"
+        ],
+        "11": [
+            "Leoric"
+        ],
+        "12": [
+            "Arthas"
+        ],
+        "13": [
+            "Valla"
+        ],
+        "14": [
+            "Diablo"
+        ],
+        "15": [
+            "Nazeebo"
+        ],
+        "16": [
+            "Gazlowe"
+        ],
+        "17": [
+            "Sgt. Hammer"
+        ],
+        "18": [
+            "Alexstrasza"
+        ],
+        "19": [
+            "Rehgar"
+        ],
+        "20": [
+            "Junkrat"
+        ],
+        "21": [
+            "D.Va"
+        ],
+        "22": [
+            "Dehaka"
+        ],
+        "23": [
+            "Stukov"
+        ],
+        "24": [
+            "Malthael"
+        ],
+        "25": [
+            "Malfurion"
+        ],
+        "26": [
+            "Greymane"
+        ],
+        "27": [
+            "Murky"
+        ],
+        "28": [
+            "Kel'Thuzad"
+        ],
+        "29": [
+            "Auriel"
+        ],
+        "30": [
+            "Blaze"
+        ],
+        "31": [
+            "Varian"
+        ],
+        "32": [
+            "Tassadar"
+        ],
+        "33": [
+            "Probius"
+        ],
+        "34": [
+            "Cho'gall"
+        ],
+        "35": [
+            "Cassia"
+        ],
+        "36": [
+            "Deckard"
+        ],
+        "37": [
+            "Zagara"
+        ],
+        "38": [
+            "Zarya"
+        ],
+        "39": [
+            "Artanis"
+        ],
+        "40": [
+            "Hanzo"
+        ],
+        "41": [
+            "Chromie"
+        ],
+        "42": [
+            "Uther"
+        ],
+        "43": [
+            "The Lost Vikings"
+        ],
+        "44": [
+            "Fenix"
+        ],
+        "45": [
+            "Lúcio"
+        ],
+        "46": [
+            "Maiev"
+        ],
+        "47": [
+            "Tychus"
+        ],
+        "48": [
+            "Anub'arak"
+        ],
+        "49": [
+            "Abathur"
+        ],
+        "50": [
+            "Brightwing"
+        ],
+        "51": [
+            "Samuro"
+        ],
+        "52": [
+            "Orphea"
+        ],
+        "53": [
+            "Raynor"
+        ],
+        "54": [
+            "Tyrael"
+        ],
+        "55": [
+            "Kharazim"
+        ],
+        "56": [
+            "Garrosh"
+        ],
+        "57": [
+            "Li Li"
+        ],
+        "58": [
+            "Thrall"
+        ],
+        "59": [
+            "ETC"
+        ],
+        "60": [
+            "Muradin"
+        ],
+        "61": [
+            "Mephisto"
+        ],
+        "62": [
+            "Anduin"
+        ],
+        "63": [
+            "Lunara"
+        ],
+        "64": [
+            "Whitemane"
+        ],
+        "65": [
+            "Illidan"
+        ],
+        "66": [
+            "Zeratul"
+        ],
+        "67": [
+            "Ana"
+        ],
+        "68": [
+            "Stitches"
+        ],
+        "69": [
+            "Falstad"
+        ],
+        "70": [
+            "Li-Ming"
+        ],
+        "71": [
+            "Zul'jin"
+        ],
+        "72": [
+            "Medivh"
+        ],
+        "73": [
+            "Genji"
+        ],
+        "74": [
+            "Lt. Morales"
+        ],
+        "75": [
+            "Yrel"
+        ],
+        "76": [
+            "Tyrande"
+        ],
+        "77": [
+            "Rexxar"
+        ],
+        "78": [
+            "Mal'Ganis"
+        ],
+        "79": [
+            "Valeera"
+        ],
+        "80": [
+            "Chen"
+        ],
+        "81": [
+            "The Butcher"
+        ],
+        "82": [
+            "Alarak"
+        ],
+        "83": [
+            "Tracer"
+        ],
+        "84": [
+            "Imperius"
+        ],
+        "85": [
+            "Nova"
+        ]
+    },
+    "Tomb of the Spider Queen": {
+        "1": [
+            "Sylvanas"
+        ],
+        "2": [
+            "Kael'thas"
+        ],
+        "3": [
+            "Xul"
+        ],
+        "4": [
+            "Azmodan"
+        ],
+        "5": [
+            "Zagara"
+        ],
+        "6": [
+            "Ragnaros"
+        ],
+        "7": [
+            "Johanna"
+        ],
+        "8": [
+            "Jaina"
+        ],
+        "9": [
+            "Nazeebo"
+        ],
+        "10": [
+            "Gul'dan"
+        ],
+        "11": [
+            "Sonya"
+        ],
+        "12": [
+            "Blaze"
+        ],
+        "13": [
+            "Diablo"
+        ],
+        "14": [
+            "Valla"
+        ],
+        "15": [
+            "Rehgar"
+        ],
+        "16": [
+            "Tassadar"
+        ],
+        "17": [
+            "Auriel"
+        ],
+        "18": [
+            "Kerrigan"
+        ],
+        "19": [
+            "Leoric"
+        ],
+        "20": [
+            "Raynor"
+        ],
+        "21": [
+            "Zeratul"
+        ],
+        "22": [
+            "Arthas"
+        ],
+        "23": [
+            "Garrosh"
+        ],
+        "24": [
+            "Kel'Thuzad"
+        ],
+        "25": [
+            "Anub'arak"
+        ],
+        "26": [
+            "Malfurion"
+        ],
+        "27": [
+            "The Butcher"
+        ],
+        "28": [
+            "Malthael"
+        ],
+        "29": [
+            "ETC"
+        ],
+        "30": [
+            "Fenix"
+        ],
+        "31": [
+            "Cho'gall"
+        ],
+        "32": [
+            "D.Va"
+        ],
+        "33": [
+            "Junkrat"
+        ],
+        "34": [
+            "Greymane"
+        ],
+        "35": [
+            "Lunara"
+        ],
+        "36": [
+            "Lúcio"
+        ],
+        "37": [
+            "Hanzo"
+        ],
+        "38": [
+            "Thrall"
+        ],
+        "39": [
+            "Muradin"
+        ],
+        "40": [
+            "Li Li"
+        ],
+        "41": [
+            "Maiev"
+        ],
+        "42": [
+            "Stitches"
+        ],
+        "43": [
+            "Artanis"
+        ],
+        "44": [
+            "Alexstrasza"
+        ],
+        "45": [
+            "Tyrande"
+        ],
+        "46": [
+            "Zarya"
+        ],
+        "47": [
+            "Li-Ming"
+        ],
+        "48": [
+            "Samuro"
+        ],
+        "49": [
+            "Medivh"
+        ],
+        "50": [
+            "Yrel"
+        ],
+        "51": [
+            "Kharazim"
+        ],
+        "52": [
+            "Rexxar"
+        ],
+        "53": [
+            "Mephisto"
+        ],
+        "54": [
+            "Varian"
+        ],
+        "55": [
+            "Anduin"
+        ],
+        "56": [
+            "Uther"
+        ],
+        "57": [
+            "Imperius"
+        ],
+        "58": [
+            "Tyrael"
+        ],
+        "59": [
+            "Chromie"
+        ],
+        "60": [
+            "Chen"
+        ],
+        "61": [
+            "Illidan"
+        ],
+        "62": [
+            "Nova"
+        ],
+        "63": [
+            "Probius"
+        ],
+        "64": [
+            "Deckard"
+        ],
+        "65": [
+            "Tracer"
+        ],
+        "66": [
+            "Genji"
+        ],
+        "67": [
+            "Mal'Ganis"
+        ],
+        "68": [
+            "Stukov"
+        ],
+        "69": [
+            "Dehaka"
+        ],
+        "70": [
+            "Tychus"
+        ],
+        "71": [
+            "Sgt. Hammer"
+        ],
+        "72": [
+            "Gazlowe"
+        ],
+        "73": [
+            "Whitemane"
+        ],
+        "74": [
+            "Valeera"
+        ],
+        "75": [
+            "Orphea"
+        ],
+        "76": [
+            "Zul'jin"
+        ],
+        "77": [
+            "Murky"
+        ],
+        "78": [
+            "Ana"
+        ],
+        "79": [
+            "Brightwing"
+        ],
+        "80": [
+            "Cassia"
+        ],
+        "81": [
+            "Falstad"
+        ],
+        "82": [
+            "Alarak"
+        ],
+        "83": [
+            "Abathur"
+        ],
+        "84": [
+            "The Lost Vikings"
+        ],
+        "85": [
+            "Lt. Morales"
+        ]
+    },
+    "Towers of Doom": {
+        "1": [
+            "Dehaka"
+        ],
+        "2": [
+            "Falstad"
+        ],
+        "3": [
+            "Chromie"
+        ],
+        "4": [
+            "Stukov"
+        ],
+        "5": [
+            "Li-Ming"
+        ],
+        "6": [
+            "Zagara"
+        ],
+        "7": [
+            "Brightwing"
+        ],
+        "8": [
+            "Johanna"
+        ],
+        "9": [
+            "Junkrat"
+        ],
+        "10": [
+            "Sylvanas"
+        ],
+        "11": [
+            "Genji"
+        ],
+        "12": [
+            "Thrall"
+        ],
+        "13": [
+            "Tyrande"
+        ],
+        "14": [
+            "Alarak"
+        ],
+        "15": [
+            "Lúcio"
+        ],
+        "16": [
+            "ETC"
+        ],
+        "17": [
+            "Xul"
+        ],
+        "18": [
+            "Deckard"
+        ],
+        "19": [
+            "Muradin"
+        ],
+        "20": [
+            "Valeera"
+        ],
+        "21": [
+            "Greymane"
+        ],
+        "22": [
+            "Maiev"
+        ],
+        "23": [
+            "Alexstrasza"
+        ],
+        "24": [
+            "Gul'dan"
+        ],
+        "25": [
+            "Sonya"
+        ],
+        "26": [
+            "Nazeebo"
+        ],
+        "27": [
+            "Azmodan"
+        ],
+        "28": [
+            "Tracer"
+        ],
+        "29": [
+            "Blaze"
+        ],
+        "30": [
+            "The Lost Vikings"
+        ],
+        "31": [
+            "Fenix"
+        ],
+        "32": [
+            "Anub'arak"
+        ],
+        "33": [
+            "Valla"
+        ],
+        "34": [
+            "Abathur"
+        ],
+        "35": [
+            "Ana"
+        ],
+        "36": [
+            "Kel'Thuzad"
+        ],
+        "37": [
+            "Diablo"
+        ],
+        "38": [
+            "Jaina"
+        ],
+        "39": [
+            "Stitches"
+        ],
+        "40": [
+            "Varian"
+        ],
+        "41": [
+            "Medivh"
+        ],
+        "42": [
+            "Garrosh"
+        ],
+        "43": [
+            "Kael'thas"
+        ],
+        "44": [
+            "Raynor"
+        ],
+        "45": [
+            "Malfurion"
+        ],
+        "46": [
+            "Leoric"
+        ],
+        "47": [
+            "Artanis"
+        ],
+        "48": [
+            "Nova"
+        ],
+        "49": [
+            "Auriel"
+        ],
+        "50": [
+            "Sgt. Hammer"
+        ],
+        "51": [
+            "Zarya"
+        ],
+        "52": [
+            "Lt. Morales"
+        ],
+        "53": [
+            "Samuro"
+        ],
+        "54": [
+            "Zul'jin"
+        ],
+        "55": [
+            "Li Li"
+        ],
+        "56": [
+            "Tychus"
+        ],
+        "57": [
+            "Arthas"
+        ],
+        "58": [
+            "Rexxar"
+        ],
+        "59": [
+            "D.Va"
+        ],
+        "60": [
+            "Tyrael"
+        ],
+        "61": [
+            "Orphea"
+        ],
+        "62": [
+            "Murky"
+        ],
+        "63": [
+            "Gazlowe"
+        ],
+        "64": [
+            "Zeratul"
+        ],
+        "65": [
+            "Uther"
+        ],
+        "66": [
+            "Hanzo"
+        ],
+        "67": [
+            "Rehgar"
+        ],
+        "68": [
+            "Imperius"
+        ],
+        "69": [
+            "Kerrigan"
+        ],
+        "70": [
+            "Illidan"
+        ],
+        "71": [
+            "Anduin"
+        ],
+        "72": [
+            "Probius"
+        ],
+        "73": [
+            "Whitemane"
+        ],
+        "74": [
+            "Chen"
+        ],
+        "75": [
+            "Lunara"
+        ],
+        "76": [
+            "The Butcher"
+        ],
+        "77": [
+            "Malthael"
+        ],
+        "78": [
+            "Tassadar"
+        ],
+        "79": [
+            "Yrel"
+        ],
+        "80": [
+            "Mephisto"
+        ],
+        "81": [
+            "Mal'Ganis"
+        ],
+        "82": [
+            "Ragnaros"
+        ],
+        "83": [
+            "Cho'gall"
+        ],
+        "84": [
+            "Kharazim"
+        ],
+        "85": [
+            "Cassia"
+        ]
+    },
+    "Warhead Junction": {
+        "1": [
+            "Dehaka"
+        ],
+        "2": [
+            "Brightwing"
+        ],
+        "3": [
+            "Falstad"
+        ],
+        "4": [
+            "The Lost Vikings"
+        ],
+        "5": [
+            "Zagara"
+        ],
+        "6": [
+            "Abathur"
+        ],
+        "7": [
+            "Illidan"
+        ],
+        "8": [
+            "Lúcio"
+        ],
+        "9": [
+            "ETC"
+        ],
+        "10": [
+            "Ragnaros"
+        ],
+        "11": [
+            "Zeratul"
+        ],
+        "12": [
+            "Samuro"
+        ],
+        "13": [
+            "Nova"
+        ],
+        "14": [
+            "Azmodan"
+        ],
+        "15": [
+            "Medivh"
+        ],
+        "16": [
+            "Valeera"
+        ],
+        "17": [
+            "Yrel"
+        ],
+        "18": [
+            "Tracer"
+        ],
+        "19": [
+            "Anub'arak"
+        ],
+        "20": [
+            "Chromie"
+        ],
+        "21": [
+            "Genji"
+        ],
+        "22": [
+            "Junkrat"
+        ],
+        "23": [
+            "Varian"
+        ],
+        "24": [
+            "Tyrande"
+        ],
+        "25": [
+            "Rexxar"
+        ],
+        "26": [
+            "Malfurion"
+        ],
+        "27": [
+            "Li-Ming"
+        ],
+        "28": [
+            "The Butcher"
+        ],
+        "29": [
+            "Thrall"
+        ],
+        "30": [
+            "Blaze"
+        ],
+        "31": [
+            "Johanna"
+        ],
+        "32": [
+            "Sonya"
+        ],
+        "33": [
+            "Sylvanas"
+        ],
+        "34": [
+            "Zul'jin"
+        ],
+        "35": [
+            "Muradin"
+        ],
+        "36": [
+            "Nazeebo"
+        ],
+        "37": [
+            "Mephisto"
+        ],
+        "38": [
+            "Lunara"
+        ],
+        "39": [
+            "Arthas"
+        ],
+        "40": [
+            "Kharazim"
+        ],
+        "41": [
+            "Ana"
+        ],
+        "42": [
+            "Murky"
+        ],
+        "43": [
+            "Kerrigan"
+        ],
+        "44": [
+            "Artanis"
+        ],
+        "45": [
+            "Probius"
+        ],
+        "46": [
+            "Li Li"
+        ],
+        "47": [
+            "Greymane"
+        ],
+        "48": [
+            "Chen"
+        ],
+        "49": [
+            "Malthael"
+        ],
+        "50": [
+            "Tychus"
+        ],
+        "51": [
+            "Tyrael"
+        ],
+        "52": [
+            "Garrosh"
+        ],
+        "53": [
+            "Diablo"
+        ],
+        "54": [
+            "Lt. Morales"
+        ],
+        "55": [
+            "Leoric"
+        ],
+        "56": [
+            "Alarak"
+        ],
+        "57": [
+            "Gazlowe"
+        ],
+        "58": [
+            "Fenix"
+        ],
+        "59": [
+            "Mal'Ganis"
+        ],
+        "60": [
+            "Stukov"
+        ],
+        "61": [
+            "Tassadar"
+        ],
+        "62": [
+            "Jaina"
+        ],
+        "63": [
+            "D.Va"
+        ],
+        "64": [
+            "Rehgar"
+        ],
+        "65": [
+            "Kael'thas"
+        ],
+        "66": [
+            "Hanzo"
+        ],
+        "67": [
+            "Cassia"
+        ],
+        "68": [
+            "Sgt. Hammer"
+        ],
+        "69": [
+            "Xul"
+        ],
+        "70": [
+            "Zarya"
+        ],
+        "71": [
+            "Valla"
+        ],
+        "72": [
+            "Auriel"
+        ],
+        "73": [
+            "Gul'dan"
+        ],
+        "74": [
+            "Stitches"
+        ],
+        "75": [
+            "Orphea"
+        ],
+        "76": [
+            "Deckard"
+        ],
+        "77": [
+            "Whitemane"
+        ],
+        "78": [
+            "Kel'Thuzad"
+        ],
+        "79": [
+            "Raynor"
+        ],
+        "80": [
+            "Maiev"
+        ],
+        "81": [
+            "Alexstrasza"
+        ],
+        "82": [
+            "Uther"
+        ],
+        "83": [
+            "Anduin"
+        ],
+        "84": [
+            "Cho'gall"
+        ],
+        "85": [
+            "Imperius"
+        ]
+    },
+    "Sky Temple": {
+        "1": [
+            "Dehaka"
+        ],
+        "2": [
+            "Brightwing"
+        ],
+        "3": [
+            "Falstad"
+        ],
+        "4": [
+            "Zagara"
+        ],
+        "5": [
+            "Sonya"
+        ],
+        "6": [
+            "Nazeebo"
+        ],
+        "7": [
+            "Samuro"
+        ],
+        "8": [
+            "Artanis"
+        ],
+        "9": [
+            "Thrall"
+        ],
+        "10": [
+            "Abathur"
+        ],
+        "11": [
+            "Murky"
+        ],
+        "12": [
+            "Kael'thas"
+        ],
+        "13": [
+            "Diablo"
+        ],
+        "14": [
+            "Johanna"
+        ],
+        "15": [
+            "The Lost Vikings"
+        ],
+        "16": [
+            "Rehgar"
+        ],
+        "17": [
+            "Gazlowe"
+        ],
+        "18": [
+            "Illidan"
+        ],
+        "19": [
+            "Li-Ming"
+        ],
+        "20": [
+            "ETC"
+        ],
+        "21": [
+            "Tyrael"
+        ],
+        "22": [
+            "Jaina"
+        ],
+        "23": [
+            "Rexxar"
+        ],
+        "24": [
+            "Anub'arak"
+        ],
+        "25": [
+            "Varian"
+        ],
+        "26": [
+            "Malfurion"
+        ],
+        "27": [
+            "Chen"
+        ],
+        "28": [
+            "Uther"
+        ],
+        "29": [
+            "Valla"
+        ],
+        "30": [
+            "Gul'dan"
+        ],
+        "31": [
+            "Tyrande"
+        ],
+        "32": [
+            "Lúcio"
+        ],
+        "33": [
+            "Anduin"
+        ],
+        "34": [
+            "Zarya"
+        ],
+        "35": [
+            "Xul"
+        ],
+        "36": [
+            "Blaze"
+        ],
+        "37": [
+            "Li Li"
+        ],
+        "38": [
+            "Lt. Morales"
+        ],
+        "39": [
+            "Malthael"
+        ],
+        "40": [
+            "The Butcher"
+        ],
+        "41": [
+            "Kharazim"
+        ],
+        "42": [
+            "Ana"
+        ],
+        "43": [
+            "Raynor"
+        ],
+        "44": [
+            "Azmodan"
+        ],
+        "45": [
+            "Stukov"
+        ],
+        "46": [
+            "Ragnaros"
+        ],
+        "47": [
+            "Whitemane"
+        ],
+        "48": [
+            "Garrosh"
+        ],
+        "49": [
+            "Probius"
+        ],
+        "50": [
+            "Sylvanas"
+        ],
+        "51": [
+            "Leoric"
+        ],
+        "52": [
+            "Zeratul"
+        ],
+        "53": [
+            "Kerrigan"
+        ],
+        "54": [
+            "Junkrat"
+        ],
+        "55": [
+            "Muradin"
+        ],
+        "56": [
+            "Greymane"
+        ],
+        "57": [
+            "Arthas"
+        ],
+        "58": [
+            "Stitches"
+        ],
+        "59": [
+            "Alexstrasza"
+        ],
+        "60": [
+            "Deckard"
+        ],
+        "61": [
+            "Alarak"
+        ],
+        "62": [
+            "D.Va"
+        ],
+        "63": [
+            "Zul'jin"
+        ],
+        "64": [
+            "Imperius"
+        ],
+        "65": [
+            "Orphea"
+        ],
+        "66": [
+            "Tassadar"
+        ],
+        "67": [
+            "Valeera"
+        ],
+        "68": [
+            "Sgt. Hammer"
+        ],
+        "69": [
+            "Hanzo"
+        ],
+        "70": [
+            "Medivh"
+        ],
+        "71": [
+            "Fenix"
+        ],
+        "72": [
+            "Cassia"
+        ],
+        "73": [
+            "Kel'Thuzad"
+        ],
+        "74": [
+            "Mephisto"
+        ],
+        "75": [
+            "Auriel"
+        ],
+        "76": [
+            "Yrel"
+        ],
+        "77": [
+            "Lunara"
+        ],
+        "78": [
+            "Maiev"
+        ],
+        "79": [
+            "Nova"
+        ],
+        "80": [
+            "Tychus"
+        ],
+        "81": [
+            "Genji"
+        ],
+        "82": [
+            "Chromie"
+        ],
+        "83": [
+            "Cho'gall"
+        ],
+        "84": [
+            "Mal'Ganis"
+        ],
+        "85": [
+            "Tracer"
+        ]
+    }
+}
